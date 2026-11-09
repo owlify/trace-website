@@ -1,0 +1,28 @@
+# Trace
+
+> Trace is a free Android app by Owlify Labs that explains Indian (NSE) and US stocks, mutual funds and your portfolio in plain words. It turns jargon like RSI, Sharpe ratio and expense ratio into direct answers about your money. It is an analysis app, not a broker or investment adviser.
+
+- Website: https://YOUR-DOMAIN/
+- Download (Google Play, free): https://play.google.com/store/apps/details?id=com.chhekur.trace
+- Instagram: https://www.instagram.com/trace.finance/
+- LinkedIn: https://www.linkedin.com/company/trace-finance/
+
+## What Trace answers
+
+- **Is today a good day to buy stocks?** A daily market call from how many of the 50 biggest companies are rising: good day to buy / okay, go steady / mixed, go slow / better to wait. It says so when there is no clear call.
+- **When should I sell?** Trade calls with entry, stop-loss, target and a time limit (e.g. buy ₹298, stop-loss ₹284, target ₹330, 20 days).
+- **Which industries are rising today?** Share of companies up in each industry (IT, pharma, banks, defence…).
+- **Is this stock good?** A business score and a price score out of 100, then a plain verdict like "strong business, falling price: worth watching, not rushing".
+- **What should I look at?** Screeners phrased as questions: strong and steady businesses, what big investors are buying, 52-week highs, fast sales growth, profitable even in bad years.
+- **What do I do with my portfolio?** Sell, trim or keep, with the rupee amount in each pile.
+- **Is this mutual fund good?** One score out of 100 (growth, reward for risk, cost), plus returns, worst drop, fees and holdings in rupees.
+- **Can I practise first?** ₹10,00,000 of pretend money, kept separate from real holdings.
+- **Calm alerts:** one message when the whole market dips, not one per stock; news explained with what it means for your holdings.
+
+## Who it is for
+
+Indian retail investors, especially beginners and mutual fund/SIP investors, who want answers instead of ratios. Also covers US stocks, with dollars kept separate from rupees.
+
+## Disclaimer
+
+Trace is not a broker or an investment adviser. Nothing in it is a recommendation to buy or sell. Mutual fund investments are subject to market risks.
